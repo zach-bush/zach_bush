@@ -10,12 +10,11 @@
 .column{
     float: left;
     width: 50%;
-      
-      
+  }
 
+.about-us {
+  text-align: justify;
 }
-
-
 
 
 #picture2{
