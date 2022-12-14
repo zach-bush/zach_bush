@@ -1,8 +1,9 @@
 
 .header {
-    background-color: #F1F1F1;
+    background-color: #54f2f2;
     text-align: center;
     padding: 20px;
+    font: Arial;
     }
 
 
@@ -14,6 +15,7 @@
 
 .classes {
   text-align: center;
+  font: Arial;
 }
 
 
@@ -33,14 +35,7 @@ body {
     background-color: white;
 }
 
-footer{
-    float: left;
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
+
 
 
 /* Add a black background color to the top navigation bar */
@@ -96,3 +91,13 @@ footer{
       border: 1px solid #ccc;
     }
   }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #5Eb1bf;
+    color: white;
+    text-align: center;
+ }
